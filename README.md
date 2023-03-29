@@ -68,9 +68,8 @@ python Vare.py
 
 🎃 = Coming Soon
  
-🩸 = ENC Type
- 
-🔵 = Added
+🩸 = Added
+
 
 <br><br>
 
@@ -90,7 +89,7 @@ python Vare.py
   
 🩸 Caesar Encoder
 
-🔵 Junk Code Injector
+🩸 Junk Code Injector
   
 <!-- Contact -->
 ## :handshake: Contact
