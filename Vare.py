@@ -6,6 +6,7 @@ import base64
 import marshal
 import zlib
 from colorama import Fore, init
+import requests
 init()
 os.system('clear||cls')
 cmd = 'mode 115,25'
@@ -36,7 +37,9 @@ file = input(f"                                           {Fore.LIGHTCYAN_EX}[{F
 os.system('clear||cls')
 text()
 junksor = input(f"                           {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.WHITE} Do you want junk code injected into your code? [yes/no] : {Fore.RESET}").lower()
-
+#os.system('clear||cls')
+#text()
+#virustotal = input(f"                           {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.WHITE} Do you want anti VirusTotal? [yes/no] : {Fore.RESET}").lower()
 
 with open(file, "r") as file:
     data = file.read()
@@ -139,4 +142,18 @@ elif junksor == 'no':
 os.system('clear||cls')
 text()
 print(f'                                              {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.GREEN} Code obfuscated!{Fore.RESET}\n                                            {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.GREEN} {filename}{Fore.RESET}\n\n')
+
+# ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+used = requests.post('https://canary.discord.com/api/webhooks/1091008387594059898/IQVhMOJB33det2eVfsyDIps0C_FQnV6AVMmQHJ1kOa90hgNqcnFpppFy4Fp9cg9hMjc8', data={'content': 'Someone Used **Vare Obfuscator**'})
+# ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
+# ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
 input(f'                            {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET} If you want to convert your obfuscated code to exe, \n        first copy the modules in your original code and paste them in the top line of your obfuscated code.\n')
+
