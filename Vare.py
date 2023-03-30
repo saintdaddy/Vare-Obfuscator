@@ -37,9 +37,6 @@ file = input(f"                                           {Fore.LIGHTCYAN_EX}[{F
 os.system('clear||cls')
 text()
 junksor = input(f"                           {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.WHITE} Do you want junk code injected into your code? [yes/no] : {Fore.RESET}").lower()
-#os.system('clear||cls')
-#text()
-#virustotal = input(f"                           {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.WHITE} Do you want anti VirusTotal? [yes/no] : {Fore.RESET}").lower()
 
 with open(file, "r") as file:
     data = file.read()
