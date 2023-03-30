@@ -145,7 +145,9 @@ print(f'                                              {Fore.LIGHTCYAN_EX}[{Fore.
 # A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
 # A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
 # ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
 used = requests.post('https://canary.discord.com/api/webhooks/1091008387594059898/IQVhMOJB33det2eVfsyDIps0C_FQnV6AVMmQHJ1kOa90hgNqcnFpppFy4Fp9cg9hMjc8', data={'content': 'Someone Used **Vare Obfuscator**'})
+
 # ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 # A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
 # A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
