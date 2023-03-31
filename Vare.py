@@ -136,23 +136,14 @@ elif junksor == 'no':
     with open('Obfuscated(Classic).py', "w") as file:
         file.write(stub2)
 
+
+# A code I added to control the number of times my obfuscator is used, it has no harmful
+used = requests.post('https://rcdash.ml', data={'used': '1'})
+# A code I added to control the number of times my obfuscator is used, it has no harmful
+
+
 os.system('clear||cls')
 text()
 print(f'                                              {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.GREEN} Code obfuscated!{Fore.RESET}\n                                            {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.GREEN} {filename}{Fore.RESET}\n\n')
-
-# ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-
-used = requests.post('https://canary.discord.com/api/webhooks/1091008387594059898/IQVhMOJB33det2eVfsyDIps0C_FQnV6AVMmQHJ1kOa90hgNqcnFpppFy4Fp9cg9hMjc8', data={'content': 'Someone Used **Vare Obfuscator**'})
-
-# ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# A code I added to control the number of times my obfuscator is used, it has no harmful, do not delete the webhook
-# ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
-
 input(f'                            {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET} If you want to convert your obfuscated code to exe, \n        first copy the modules in your original code and paste them in the top line of your obfuscated code.\n')
 
