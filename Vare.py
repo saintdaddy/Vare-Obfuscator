@@ -38,7 +38,7 @@ os.system('clear||cls')
 text()
 junksor = input(f"                           {Fore.LIGHTCYAN_EX}[{Fore.RESET}{Fore.CYAN}+{Fore.RESET}{Fore.LIGHTCYAN_EX}]{Fore.RESET}{Fore.WHITE} Do you want junk code injected into your code? [yes/no] : {Fore.RESET}").lower()
 
-with open(file, "r") as file:
+with open(file, encoding="utf-8") as file:
     data = file.read()
 
 original_code = data
