@@ -25,7 +25,7 @@ def text():
 
              {Fore.RED}╔══════════════════════════════════════════╦══════════════════════════════════════════╗{Fore.RESET}
              {Fore.RED}║ {Fore.RESET}                                                                                    {Fore.RED}║{Fore.RESET}
-             {Fore.RED}║  {Fore.RESET}                        {Fore.LIGHTCYAN_EX}Github  :{Fore.RESET} https://github.com/saintdaddy                     {Fore.RED}║{Fore.RESET}
+             {Fore.RED}║  {Fore.RESET}                        {Fore.LIGHTCYAN_EX}Github  :{Fore.RESET} https://github.com/saintdaddy                    {Fore.RED}║{Fore.RESET}
              {Fore.RED}║  {Fore.RESET}                        {Fore.LIGHTCYAN_EX}Discord :{Fore.RESET} 1040282130690879579                              {Fore.RED}║{Fore.RESET}
              {Fore.RED}║  {Fore.RESET}                                                                                   {Fore.RED}║{Fore.RESET}
              {Fore.RED}╚══════════════════════════════════════════╩══════════════════════════════════════════╝{Fore.RESET}
